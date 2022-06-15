@@ -5,4 +5,6 @@ class Dog:
 
     def get_action(self):
         print('Woooaph!')
-        
+
+
+# conflict
